@@ -9,7 +9,7 @@
 ---
 
 ## 👋 Who We Are  
-We’re **Zohaib** & **Anoosha**, two passionate developers on a mission to **reshape the web** and **build the next generation of AI agents**.  
+We’re a team of passionate developers on a mission to **reshape the web** and **build the next generation of AI agents**.  
 We founded **Fervixa** to combine our love for **AI, web development, and freelancing** into one powerful vision.
 
 ---
